@@ -9,4 +9,4 @@ const Pannier = () => {
   );
 };
 
-export default Cart;
+export default Pannier;
